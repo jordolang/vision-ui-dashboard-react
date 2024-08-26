@@ -54,6 +54,7 @@ Let us know your thoughts below. And good luck with development!
 - [Versions](#versions)
 - [Demo](#demo)
 - [Quick start](#quick-start)
+- [Deploy](#deploy)
 - [Documentation](#documentation)
 - [File Structure](#file-structure)
 - [Browser Support](#browser-support)
@@ -81,10 +82,16 @@ Quick start options:
 
 - Buy from [Creative Tim](https://www.creative-tim.com/product/vision-ui-dashboard-react?ref=readme-vudreact).
 
-## Terminal Commands
+## Deploy
 
-1. Download and Install NodeJs LTS version from [NodeJs Official Page](https://nodejs.org/en/download/).
-2. Navigate to the root / directory and run yarn install/npm install to install our local dependencies.
+:rocket: You can deploy your own version of the template to Genezio with one click:
+
+[![Deploy to Genezio](https://raw.githubusercontent.com/Genez-io/graphics/main/svg/deploy-button.svg)](https://app.genez.io/start/deploy?repository=https://github.com/creativetimofficial/vision-ui-dashboard-react&utm_source=github&utm_medium=referral&utm_campaign=github-creativetim&utm_term=deploy-project&utm_content=button-head)
+
+## Preparation
+
+1. Download and Install NodeJs 16 from the [official website](https://nodejs.org/en/about/previous-releases) or use [nvm](https://github.com/nvm-sh/nvm) to quickly switch versions.
+2. Navigate to the projects root directory and run `yarn install` or `npm install` to install the projects dependencies.
 
 ## Documentation
 
